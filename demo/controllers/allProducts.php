@@ -1,0 +1,2 @@
+<?
+$products = $adminFunctions -> allProducts();

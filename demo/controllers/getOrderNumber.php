@@ -1,0 +1,2 @@
+<?
+$orderInfo = getNumberOrder($order);
